@@ -43,6 +43,7 @@ public class CricketCoach implements Coach {
     public void setFortuneService(FortuneService fortuneService) {
 
         System.out.println("CricketCoach: Inside setter method setFortuneService");
+        System.out.println("Fuck you");
         this.fortuneService = fortuneService;
     }
 
